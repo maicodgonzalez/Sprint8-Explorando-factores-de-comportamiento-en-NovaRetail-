@@ -35,7 +35,8 @@ Este proyecto construye un análisis correlacional estructurado que combina vari
 
 Se calculó la matriz de correlación de Pearson entre las variables numéricas continuas y se visualizó con un *heatmap* para identificar rápidamente qué variables se asocian más con `ingreso_anual`.
 
-![Heatmap de correlaciones](images/heatmap_correlaciones.png)
+<img width="1013" height="864" alt="image" src="https://github.com/user-attachments/assets/9f8f6165-19b2-4e50-ac12-3132b2e8c0c4" />
+
 
 ### Hallazgos principales
 
